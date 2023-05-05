@@ -32,7 +32,3 @@ The dataset used in this script is the Cardiovascular Disease dataset from Kaggl
 ## Results
 
 The results of the deep learning model trained on the Cardiovascular Disease dataset show a training accuracy of 0.7414 and a testing accuracy of 0.7379. These results indicate that the model is performing reasonably well in predicting the presence or absence of cardiovascular disease based on the features provided in the dataset.
-
-## License
-
-This script is licensed under the MIT License. You are free to use, modify, and distribute this code for any purpose, provided that you include the original copyright and license notice in any copies or derivative works.
