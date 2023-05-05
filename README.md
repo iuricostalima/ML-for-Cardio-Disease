@@ -16,7 +16,7 @@ This will install all the required packages including TensorFlow, Pandas, NumPy,
 Once you have installed the required packages, you can run the script using the following command:
 
 ```
-python cardiovascular_disease_prediction.py
+ML_for_Cardio_Disease.ipynb
 ```
 
 This will load the dataset, preprocess the data, and train a deep learning model using TensorFlow. The trained model will then be evaluated on a test set and the accuracy will be printed to the console.
